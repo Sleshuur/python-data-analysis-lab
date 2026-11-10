@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+build/
+*.egg-info/
+*.so
+*.pyd
+labs/01_numpy/sum_squares.c
+labs/01_numpy/data/
+.DS_Store

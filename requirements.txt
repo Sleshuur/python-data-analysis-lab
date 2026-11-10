@@ -1,0 +1,7 @@
+numpy>=1.26,<3
+scipy>=1.11,<2
+Cython>=3.0,<4
+setuptools>=68
+jupyterlab>=4,<5
+ipykernel>=6,<8
+nbconvert>=7,<8
