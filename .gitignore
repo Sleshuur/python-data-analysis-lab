@@ -10,3 +10,4 @@ build/
 labs/01_numpy/sum_squares.c
 labs/01_numpy/data/
 .DS_Store
+labs/02_numpy_pandas/data/
